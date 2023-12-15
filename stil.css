@@ -1,0 +1,47 @@
+
+.cien {
+position: absolute;
+top: 775px;
+left: 850px;
+}
+
+.two {
+position: absolute;
+top: 950px;
+right: 500px;
+}
+
+.four {
+position: absolute;
+top: 1015px;
+left: 850px;
+}
+
+.zero {
+position: absolute;
+top: 1260px;
+left: 390px;
+}
+
+.tew {
+position: absolute;
+top: 500px;
+left: 300px;
+}
+
+.butto {
+position: absolute;
+top: 1400px;
+left: 180px;
+height: 300px;
+width: 300px;
+}
+
+.button {
+position: absolute;
+top: 1350px;
+left: 180px;
+height: 300px;
+width: 300px;
+}
+

@@ -1,0 +1,11 @@
+</div>
+<div class="cinco">
+<center><text style="color:white;">OENJDIDENEDINEUDBDJUEJNDJhhhhhhhh</text></center>
+</div>
+
+<style>
+.cinco {overflow: hidden;}
+</style>
+
+  .one {
+	text-align: right;
